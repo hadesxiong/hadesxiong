@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- 🐻 I'm Nero Feng，a slashie whose working direction is  software development. 
+- 🐻 I'm Nero Feng, a slashie whose working direction is  software development. 
 - 💼 I'm currently working in banking company as a product manager.
 
 ### Doing...
