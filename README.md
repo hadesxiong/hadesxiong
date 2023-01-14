@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📅 Editing a handbook about Axure skills for freshman in software or app design.
 
 ### My Github Stats and Streak
-![hadesxiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadesxiong&count_private=true&hide=stars&theme=dracula&show_icon=true)
+![hadesxiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadesxiong&count_private=true&hide=stars&theme=dracula&show_icon=true&hide_title=true)
 
 ![hadesxiong's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=hadesxiong)
 
