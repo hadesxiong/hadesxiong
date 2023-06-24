@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Get in touch
 
 <!-- > building... -->
-[![Welcome,visitors](https://visitor-badge.glitch.me/badge?page_id=hadesxiong)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hadesxiong&left_color=green&right_color=red)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat-square)](https://github.com/hadesxiong)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu&style=flat-square)](https://www.zhihu.com/people/feng-nero)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat&style=flat-square)](https://pmfeeds.bearman.xyz/weapp/others/qrcode_for_gh_d92f4da8467e_344.jpeg)
